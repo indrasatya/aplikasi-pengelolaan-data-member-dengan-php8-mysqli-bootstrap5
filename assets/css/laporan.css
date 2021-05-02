@@ -1,0 +1,47 @@
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+  border: 0;
+  border-top: 2px solid #555555;
+}
+
+.text-left {
+  text-align: left !important;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.table th {
+  padding: 0.5rem;
+  background-color: #31316a;
+  color: #fff;
+}
+
+.table td {
+  padding: 0.45rem;
+}
+
+.table-bordered {
+  border: 1px solid #555555;
+}
+
+.table-bordered th,
+.table-bordered td {
+  border: 1px solid #555555;
+}
+
+.mt-5 {
+  margin-top: 2rem;
+}
+
+.foto-profil {
+  width: 75px;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem !important;
+}
