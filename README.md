@@ -3,7 +3,7 @@ Aplikasi Pengelolaan Data Member ini dibangun menggunakan bahasa pemrograman PHP
 
 Aplikasi ini merupakan contoh studi kasus sederhana yang menerapkan operasi dasar seperti Create, Read, Update, Delete, dan masih banyak lagi lainnya yang wajib diketahui oleh setiap programmer karena akan selalu digunakan dalam membangun sebuah sistem.
 
-#Materi yang dapat dipelajari dari aplikasi ini adalah : 		
+# Materi yang dapat dipelajari dari aplikasi ini adalah : 		
 1. Create (Menyimpan Data),
 Membuat script untuk menyimpan/insert data dari aplikasi ke database MySQL.
 2. Read (Menampilkan Data),
